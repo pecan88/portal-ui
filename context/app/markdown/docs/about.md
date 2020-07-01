@@ -13,11 +13,14 @@ The HuBMAP Consortium is developing the tools to create an open, global atlas of
 
 ### Funding
 [Common Fund of the National Institutes of Health](https://commonfund.nih.gov/HuBMAP)
+
 [Funded Research](https://commonfund.nih.gov/HuBMAP/fundedresearch)
  
 ### Contact
 General - help@hubmapconsortium.org
+
 Consortium Leadership - Executive Committee Co-Chairs [Jonathan Silverstein](mailto:j.c.s@pitt.edu) & [Mike Snyder](mailto:mpsnyder@stanford.edu) 
+
 NIH Leadership - [Richard Conroy](mailto:richard.conroy@nih.gov)
 
 ### Software
